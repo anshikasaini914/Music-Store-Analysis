@@ -7,7 +7,7 @@ The dataset contains information about customers,employee, playlist, invoices, a
 Using SQL queries, the project answers business questions related to sales performance, customer behavior, and music preferences.
 
 The goal of this project is to demonstrate SQL skills, relational database analysis, and data-driven decision making.
-
+<img src="schema_diagram.png" width="800">
 ⭐ Project Highlights
 
 1. Analyzed a multi-table relational database using PostgreSQL.
