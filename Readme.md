@@ -1,4 +1,5 @@
 🎵 Music Store Data Analysis using PostgreSQL
+
 📌 Overview
 
 This project analyzes a Music Store relational database using PostgreSQL to extract meaningful business insights.
