@@ -3,7 +3,7 @@
 📌 Overview
 
 This project analyzes a Music Store relational database using PostgreSQL to extract meaningful business insights.
-The dataset contains information about customers,employee, playlist, invoices, artists, albums, tracks, and genres.
+The dataset contains information about customers, employees, playlist, invoices, artists, albums, tracks, and genres.
 
 Using SQL queries, the project answers business questions related to sales performance, customer behavior, and music preferences.
 
@@ -97,4 +97,5 @@ Product Strategy
 3. Machine Learning: Recommendation engine for customers
 
 🤝 Contributing
+
 Contributions are welcome! 
