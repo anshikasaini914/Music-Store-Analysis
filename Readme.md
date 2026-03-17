@@ -14,7 +14,7 @@ The goal of this project is to demonstrate SQL skills, relational database analy
 
 The dataset contains 11 relational tables, including:
 
-<img src="diagram/schema_diagram.png" width="800">
+<img src="schema_diagram.png" width="800">
 
 
 ⭐ Project Highlights
